@@ -58,8 +58,13 @@ Open the .ipynb file in Jupyter Notebook.
 Run all cells to play the game and view the test output.
 
 ## Authors
+
 Ibrahim Al-Barakani 
+
 Ei Ei Aung 
+
 Sasindu Peiris 
+
 Sandali Crishenshiya Fernando 
+
 Abidur Rahman 
